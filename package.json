@@ -4,7 +4,8 @@
   "description": "This is a ebook api project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:comment": "I manually changed this",
+    "dev": "nodemon server.ts"
   },
   "author": "Kumarjit Das <kumarjitdas@condor-cloud.com>",
   "license": "ISC",

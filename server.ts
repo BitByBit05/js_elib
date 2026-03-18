@@ -1,0 +1,1 @@
+console.log("Welcome to js-elib, this is a project i build to learn APIs");
